@@ -1,0 +1,6 @@
+[
+    // 해당 문자 입력 후 개행 처리
+    {"keys": ["super+shift+["], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/brace-and-newline.sublime-macro"}},
+    {"keys": ["super+shift+,"], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/comma-and-newline.sublime-macro"}},
+    {"keys": ["super+shift+;"], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/semicolon-and-newline.sublime-macro"}}
+]
