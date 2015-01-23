@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[event.preventDefault();
+$0]]></content>
+    <tabTrigger>e.pd</tabTrigger>
+    <scope>source.js</scope>
+    <description>event.preventDefault</description>
+</snippet>

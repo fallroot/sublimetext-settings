@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[on('${1:click}', ${3:'$2', }function(event) {
+	$0
+});]]></content>
+    <tabTrigger>on</tabTrigger>
+    <scope>source.js</scope>
+    <description>jQuery#on</description>
+</snippet>
