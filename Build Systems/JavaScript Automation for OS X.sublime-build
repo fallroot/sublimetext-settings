@@ -1,0 +1,3 @@
+{
+    "cmd": ["osascript", "-l", "JavaScript", "$file"]
+}
